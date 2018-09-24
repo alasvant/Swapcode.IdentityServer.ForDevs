@@ -12,7 +12,7 @@ namespace Swapcode.IdentityServer.ForDevs.InMemory
         /// <summary>
         /// The default site (most likely your localhost)
         /// </summary>
-        private const string DefaultSiteAddress = "http://localhost:46013"; // TODO: Change here your site address and port. Do not add backslash at the end!
+        private const string DefaultSiteAddress = "http://localhost:48660"; // TODO: Change here your site address and port. Do not add backslash at the end!
         /// <summary>
         /// Your Episerver site util folder.
         /// </summary>
